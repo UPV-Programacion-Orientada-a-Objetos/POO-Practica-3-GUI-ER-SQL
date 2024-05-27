@@ -1,4 +1,4 @@
-## Redacción del problema: Implementación de una interfaz gráfica de usuario (GUI) para SQL con herramientas de diseño de diagramas Entidad-Relación y generación de código SQL
+## Implementación de una interfaz gráfica de usuario (GUI) para SQL con herramientas de diseño de diagramas Entidad-Relación y generación de código SQL
 
 **Introducción:**
 
